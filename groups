@@ -1,0 +1,1582 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <title>Grupp 4 & 5 – Mer om gruppen</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+
+<div class="back-link">
+    <a href="grupp45.html">← Tillbaka till Grupp 4 & 5</a>
+</div>
+
+<div class="read-top">
+    <button class="read-button" onclick="toggleRead()">🔊 Läs upp</button>
+</div>
+
+<div class="readable-content">
+
+<h1>Mer om gruppen</h1>
+
+<section class="content-section">
+
+<h2>Hur gruppen arbetar</h2>
+
+<p>
+Arbetet är i huvudsak individuellt och självständigt,
+med varierande grad av stöd.
+</p>
+
+<p>
+Strukturen skapas genom whiteboard med schema,
+veckoplanering, fasta dagliga rutiner, timstock
+och tydliga arbetsbeskrivningar.
+</p>
+
+<p>
+Stödet ges genom muntlig vägledning, samtal vid behov,
+praktiskt stöd i kontakter med myndigheter
+samt gemensamt görande vid utvalda aktiviteter.
+</p>
+
+<p>
+Samtalet är en central metod i gruppen –
+både för struktur, relation och bearbetning av frågor.
+</p>
+
+<h2>Välfärdsteknik – möjligheter</h2>
+
+<ul>
+<li>Schemalagd AI-tid för strukturerad utforskning</li>
+<li>Implementering av nya iPads i individarbete</li>
+<li>Ökad användning av InPrint som strukturellt stöd</li>
+<li>Integrering av skärmaskin i kreativa projekt</li>
+</ul>
+
+<h2>Möjligheter framåt</h2>
+
+<p>
+Ett naturligt nästa steg är att tydliggöra gruppens roll
+som tekniskt nav inom verksamheten.
+</p>
+
+<ul>
+<li>Fördjupning inom AI och digital produktion</li>
+<li>Kreativa projekt som kan delas med andra grupper</li>
+<li>Stärkt roll som intern teknikresurs</li>
+</ul>
+
+</section>
+
+</div>
+
+<script src="../js/read.js"></script>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <title>Grupp 4 & 5 – Teknik i rummet</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+
+<div class="back-link">
+    <a href="grupp45.html">← Tillbaka till Grupp 4 & 5</a>
+</div>
+
+<div class="read-top">
+    <button class="read-button" onclick="toggleRead()">🔊 Läs upp</button>
+</div>
+
+<div class="readable-content">
+
+<h1 class="center-title">TEKNIK I RUMMET</h1>
+
+<div class="tech-grid">
+
+    <a href="../tech/grupp45-datorer.html" class="tech-item">
+        <div class="tech-icon">🖥️</div>
+        <div class="tech-label">Datorer</div>
+    </a>
+
+    <a href="../tech/grupp45-ipad.html" class="tech-item">
+        <div class="tech-icon">📱</div>
+        <div class="tech-label">iPads</div>
+    </a>
+
+    <a href="../tech/grupp45-spel.html" class="tech-item">
+        <div class="tech-icon">🎮</div>
+        <div class="tech-label">Speldatorer</div>
+    </a>
+
+    <a href="../tech/grupp45-ai.html" class="tech-item">
+        <div class="tech-icon">🤖</div>
+        <div class="tech-label">AI & Digital produktion</div>
+    </a>
+
+</div>
+
+<hr class="section-divider">
+
+<h2 class="center-subtitle">TEKNIKANVÄNDNING</h2>
+
+<div class="content-section">
+
+<p>
+Teknik är en tydlig och integrerad del av gruppens vardag.
+Den används både som kreativt verktyg och som stöd i produktion,
+kommunikation och självständigt arbete.
+</p>
+
+<p>
+Regelbunden användning sker inom:
+</p>
+
+<ul>
+<li>Tidningsproduktion</li>
+<li>Film och filmredigering</li>
+<li>3D-modellering och 3D-print</li>
+<li>Bild- och filmredigering</li>
+<li>Spel och media</li>
+</ul>
+
+<h2>AI – uppstartsfas</h2>
+
+<p>
+Gruppen har påbörjat utforskning av AI som kreativt och praktiskt verktyg.
+</p>
+
+<ul>
+<li>Skapa bilder och filmer</li>
+<li>Förbättra och sammanfatta texter</li>
+<li>Stöd i tidningsproduktion</li>
+<li>Test av AI-genererad musik</li>
+</ul>
+
+<p>
+Det finns önskemål om schemalagd tid för att utveckla AI-arbetet mer strukturerat.
+</p>
+
+<h2>Ej fullt implementerad teknik</h2>
+
+<ul>
+<li>Nya iPads</li>
+<li>Skärmaskin</li>
+<li>Utökad användning av InPrint</li>
+</ul>
+
+</div>
+
+</div>
+
+<script src="../js/read.js"></script>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <title>Matsalen – Stora köket</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<div class="back-link">
+    <a href="../index.html">← Tillbaka till kartan</a>
+</div>
+
+<div class="read-top">
+    <button class="read-button" onclick="toggleRead()">🔊 Läs upp</button>
+</div>
+
+<h1>STORA KÖKET – MATSALEN</h1>
+
+<p class="specialization">
+    Central mötesplats för samordning, planering och gemensamma digitala aktiviteter i verksamheten.
+</p>
+
+<div class="room-image">
+    <img src="../images/matsalen.png" alt="Matsalen">
+</div>
+
+<div class="readable-content">
+<section class="content-section">
+
+<h2>Om rummet</h2>
+
+<p>
+Matsalen är en gemensam samlingsplats i verksamheten.
+Här äter deltagare och personal lunch mellan 11.30 och 12.30.
+</p>
+
+<p>
+Rummet används även för planering, möten och gemensamma
+aktiviteter med både personal och deltagare.
+</p>
+
+</section>
+</div>
+
+<div class="button-row">
+    <a href="matsalen-teknik.html" class="action-button">Teknik i rummet</a>
+</div>
+
+<script src="../js/read.js"></script>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <title>Teknik i Matsalen</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<div class="back-link">
+    <a href="matsalen.html">← Tillbaka till Matsalen</a>
+</div>
+
+<div class="read-top">
+    <button class="read-button" onclick="toggleRead()">🔊 Läs upp</button>
+</div>
+
+<h1 class="center-title">TEKNIK I RUMMET</h1>
+
+<div class="tech-grid">
+
+    <a href="../tech/matsalen-flip.html" class="tech-item">
+        <div class="tech-icon">🖥️</div>
+        <div class="tech-label">Samsung<br>Fliptavla</div>
+    </a>
+
+    <a href="../tech/matsalen-datorer.html" class="tech-item">
+        <div class="tech-icon">💻</div>
+        <div class="tech-label">Bärbara<br>datorer</div>
+    </a>
+
+</div>
+
+<hr class="section-divider">
+
+<div class="readable-content">
+<div class="tech-description">
+
+<p>
+Tekniken i Matsalen används främst för gemensamma
+möten, planering och digitala gruppaktiviteter.
+</p>
+
+<p>
+Fliptavlan och bärbara datorer möjliggör samordning,
+delning av information och interaktivt arbete.
+</p>
+
+</div>
+</div>
+
+<script src="../js/read.js"></script>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <title>Diabasen – Slangbellan</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<div class="back-link">
+    <a href="../index.html">← Tillbaka till kartan</a>
+</div>
+
+<div class="read-top">
+    <button class="read-button" onclick="toggleRead()">🔊 Läs upp</button>
+</div>
+
+<h1>DIABASEN: Slangbellan</h1>
+
+<p class="specialization">
+    Kreativ scenmiljö för rörelse, uttryck och gemensamma aktiviteter.
+</p>
+
+<div class="room-image">
+    <img src="../images/slangbellan.png" alt="Slangbellan">
+</div>
+
+<div class="readable-content">
+<section class="content-section">
+
+    <h2>Om rummet</h2>
+
+    <p>
+        Slangbellan är en öppen och kreativ miljö för scenaktiviteter,
+        rörelse, drama och gemensamma uttrycksformer.
+    </p>
+
+</section>
+</div>
+
+<div class="button-row">
+    <a href="slangbellan-teknik.html" class="action-button">Teknik i rummet</a>
+    <a href="slangbellan-mer.html" class="action-button">Mer om rummet</a>
+    <a href="slangbellan-kompetens.html" class="action-button">Special kompetens</a>
+</div>
+
+<script src="../js/read.js"></script>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <title>Special kompetens – Slangbellan</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<div class="back-link">
+    <a href="slangbellan.html">← Tillbaka till Slangbellan</a>
+</div>
+
+<div class="read-top">
+    <button class="read-button" onclick="toggleRead()">🔊 Läs upp</button>
+</div>
+
+<h1>Special kompetens</h1>
+
+<div class="readable-content">
+<section class="content-section">
+    <p>
+        Kompetensområden fylls på efter intervju.
+    </p>
+</section>
+</div>
+
+<script src="../js/read.js"></script>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <title>Mer om Slangbellan</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<div class="back-link">
+    <a href="slangbellan.html">← Tillbaka till Slangbellan</a>
+</div>
+
+<div class="read-top">
+    <button class="read-button" onclick="toggleRead()">🔊 Läs upp</button>
+</div>
+
+<h1>Mer om Slangbellan</h1>
+
+<div class="readable-content">
+<section class="content-section left">
+    <p>
+        Arbetssätt och utvecklingsområden dokumenteras efter intervju.
+    </p>
+</section>
+</div>
+
+<script src="../js/read.js"></script>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <title>Teknik i Slangbellan</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<div class="back-link">
+    <a href="slangbellan.html">← Tillbaka till Slangbellan</a>
+</div>
+
+<div class="read-top">
+    <button class="read-button" onclick="toggleRead()">🔊 Läs upp</button>
+</div>
+
+<h1 class="center-title">TEKNIK I RUMMET</h1>
+
+<div class="readable-content">
+<div class="tech-description">
+    <p>
+        Teknik i Slangbellan dokumenteras och fylls på efter intervju med ansvarig personal.
+    </p>
+</div>
+</div>
+
+<script src="../js/read.js"></script>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <title>Diabasen – Studion</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<!-- Tillbaka -->
+<div class="back-link">
+    <a href="../index.html">← Tillbaka till kartan</a>
+</div>
+
+<!-- Läs upp -->
+<div class="read-top">
+    <button class="read-button" onclick="toggleRead()">🔊 Läs upp</button>
+</div>
+
+<h1>DIABASEN: Studion</h1>
+
+<p class="specialization">
+    Kreativt musikskapande och uttryck genom teknik, rytm och samspel.
+</p>
+
+<div class="room-image">
+    <img src="../images/studion.png" alt="Studion">
+</div>
+
+<div class="readable-content">
+
+<section class="content-section">
+
+    <h2>Om rummet</h2>
+
+    <p>
+        Studion är en kreativ miljö för skapande, inspelning och
+        musikaliskt utforskande. Här möts teknik och uttryck i en
+        lugn men inspirerande atmosfär.
+    </p>
+
+</section>
+
+</div>
+
+<div class="button-row">
+    <a href="studion-teknik.html" class="action-button">Teknik i rummet</a>
+    <a href="studion-mer.html" class="action-button">Mer om rummet</a>
+    <a href="studion-kompetens.html" class="action-button">Special kompetens</a>
+</div>
+
+<script src="../js/read.js"></script>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <title>Special kompetens – Studion</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<div class="back-link">
+    <a href="studion.html">← Tillbaka till Studion</a>
+</div>
+
+<div class="read-top">
+    <button class="read-button" onclick="toggleRead()">🔊 Läs upp</button>
+</div>
+
+<h1>Special kompetens</h1>
+
+<div class="readable-content">
+<section class="content-section">
+
+    <p>
+        Studions specialkompetens dokumenteras efter intervju med ansvarig personal.
+    </p>
+
+    <ul>
+        <li>Kommer snart</li>
+    </ul>
+
+</section>
+</div>
+
+<script src="../js/read.js"></script>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <title>Mer om Studion</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<div class="back-link">
+    <a href="studion.html">← Tillbaka till Studion</a>
+</div>
+
+<div class="read-top">
+    <button class="read-button" onclick="toggleRead()">🔊 Läs upp</button>
+</div>
+
+<h1>Mer om Studion</h1>
+
+<div class="readable-content">
+<section class="content-section left">
+
+    <h2>Hur vi arbetar</h2>
+    <p>
+        Information fylls på efter intervju.
+    </p>
+
+    <h2>Möjligheter framåt</h2>
+    <p>
+        Utvecklingsområden dokumenteras efter samtal med personal.
+    </p>
+
+</section>
+</div>
+
+<script src="../js/read.js"></script>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <title>Teknik i Studion</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<div class="back-link">
+    <a href="studion.html">← Tillbaka till Studion</a>
+</div>
+
+<div class="read-top">
+    <button class="read-button" onclick="toggleRead()">🔊 Läs upp</button>
+</div>
+
+<h1 class="center-title">TEKNIK I RUMMET</h1>
+
+<div class="tech-grid">
+
+    <!-- Lägg in teknik här efter intervju -->
+    <a href="#" class="tech-item">
+        <div class="tech-icon">🎵</div>
+        <div class="tech-label">Kommer snart</div>
+    </a>
+
+</div>
+
+<hr class="section-divider">
+
+<div class="readable-content">
+<div class="tech-description">
+    <p>
+        Teknik i Studion dokumenteras och läggs in efter intervju med ansvarig personal.
+    </p>
+</div>
+</div>
+
+<script src="../js/read.js"></script>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <title>Diabasen – Grupp 1</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+    <!-- Tillbaka -->
+    <div class="back-link">
+        <a href="../index.html">← Tillbaka till kartan</a>
+    </div>
+
+    <!-- Läs upp -->
+    <div class="read-top">
+        <button class="read-button" onclick="toggleRead()">🔊 Läs upp</button>
+    </div>
+
+    <!-- Rubrik -->
+    <h1>DIABASEN: Grupp 1</h1>
+
+    <!-- Specialisering -->
+    <p class="specialization">
+        Kreativt teknikstöd och inspiration genom relation, nyfikenhet och praktiskt skapande.
+    </p>
+
+    <!-- Bild -->
+    <div class="room-image">
+        <img src="../images/grupp1.png" alt="Grupp 1">
+    </div>
+
+    <!-- Allt som ska läsas -->
+    <div class="readable-content">
+
+        <section class="content-section">
+            <h2>Om gruppen</h2>
+
+            <p>
+                Grupp 1 är en levande och social grupp där humor, entusiasm och starka uttryck
+                präglar vardagen. Tempot är ofta varierande och kan stundvis vara intensivt,
+                särskilt när många är på plats samtidigt.
+            </p>
+
+            <p>
+                Gruppen är öppen och inkluderande. Det är vanligt att deltagare från andra
+                grupper kommer in och hänger i rummet, samtidigt som det finns möjlighet
+                att erbjuda mer avskalade och ostörda miljöer för dem som behöver arbeta
+                i lugn och ro.
+            </p>
+        </section>
+
+    </div>
+
+    <div class="button-row">
+        <a href="grupp1-teknik.html" class="action-button">Teknik i rummet</a>
+        <a href="grupp1-mer.html" class="action-button">Mer om gruppen</a>
+        <a href="grupp1-kompetens.html" class="action-button">Special kompetens</a>
+    </div>
+
+    <!-- Endast det nya scriptet -->
+    <script src="../js/read.js"></script>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <title>Grupp 1 – Special kompetens</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+    <!-- Tillbaka -->
+    <div class="back-link">
+        <a href="grupp1.html">← Tillbaka till Grupp 1</a>
+    </div>
+
+    <!-- Läs upp -->
+    <div class="read-top">
+        <button class="read-button" onclick="toggleRead()">🔊 Läs upp</button>
+    </div>
+
+    <h1>Special kompetens</h1>
+
+    <!-- Allt som ska läsas -->
+    <div class="readable-content">
+
+        <section class="content-section">
+
+            <p>
+                Grupp 1 har en stark kompetens inom kreativt teknikarbete, relations-
+                byggande och pedagogiskt stöd. Gruppen fungerar ofta som en inspirerande
+                miljö för både deltagare och kollegor.
+            </p>
+
+            <ul>
+                <li>Kreativt arbete med teknik</li>
+                <li>Musik, film och digitalt skapande</li>
+                <li>Pedagogiskt tydliggörande</li>
+                <li>Inspirera och vägleda andra</li>
+            </ul>
+
+        </section>
+
+    </div>
+
+    <script src="../js/read.js"></script>
+
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <title>Grupp 1 – Mer om gruppen</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+    <!-- Tillbaka -->
+    <div class="back-link">
+        <a href="grupp1.html">← Tillbaka till Grupp 1</a>
+    </div>
+
+    <!-- Läs upp -->
+    <div class="read-top">
+        <button class="read-button" onclick="toggleRead()">🔊 Läs upp</button>
+    </div>
+
+    <h1>Mer om gruppen</h1>
+
+    <!-- Allt som ska läsas ligger här -->
+    <div class="readable-content">
+
+        <section class="content-section left">
+            
+            <h2>Hur gruppen arbetar</h2>
+
+            <p>
+                Arbetet i Grupp 1 sker till stor del med stöd från personalen.
+                Stödet ges genom tydlig struktur, samtal och gemensamt görande,
+                alltid anpassat efter individ och situation.
+            </p>
+
+            <p>
+                Relationer är en central grund i arbetet, och samarbete fungerar
+                bäst när det finns trygghet mellan deltagarna. Tydliga rutiner,
+                såsom morgonsamlingar och scheman, bidrar till förutsägbarhet
+                och trygghet i vardagen.
+            </p>
+
+            <h2>Tips på välfärdsteknik (möjligheter)</h2>
+
+            <p>
+                Utifrån gruppens arbetssätt och intressen finns goda möjligheter
+                att utforska ny välfärdsteknik. Fokus ligger på teknik som
+                stärker kreativt skapande, struktur och självständighet.
+            </p>
+
+            <ul>
+                <li>Digitala verktyg för kreativt uttryck</li>
+                <li>Appar som stödjer struktur och planering</li>
+                <li>Teknik som kan öka självständighet i vardagen</li>
+            </ul>
+
+            <h2>Möjligheter framåt</h2>
+
+            <p>
+                En naturlig utveckling för Grupp 1 är att fortsätta sprida sin
+                kunskap och kompetens till andra grupper i verksamheten.
+                Det finns även möjligheter att stötta deltagare i att vägleda
+                andra inom sina egna intresseområden.
+            </p>
+
+            <p>
+                Arbete med musik, teaterstöd och rörelseaktiviteter är redan
+                påbörjat och kan fortsätta utvecklas över tid.
+            </p>
+
+            <h2>Styrkor i Grupp 1</h2>
+
+            <ul>
+                <li>Stark relationskompetens och social fingertoppskänsla</li>
+                <li>Hög kreativitet och nyfikenhet i arbetssättet</li>
+                <li>Stort intresse för teknik, musik och kreativa uttryck</li>
+                <li>Förmåga att inspirera och engagera andra</li>
+                <li>Tålamod och flexibilitet</li>
+                <li>God pedagogisk förmåga och tydliggörande</li>
+                <li>Humor och värme som skapar trygghet</li>
+            </ul>
+
+        </section>
+
+    </div>
+
+    <script src="../js/read.js"></script>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <title>Teknik i Grupp 1</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+    <!-- Tillbaka -->
+    <div class="back-link">
+        <a href="../groups/grupp1.html">← Tillbaka till Grupp 1</a>
+    </div>
+
+    <!-- Läs upp -->
+    <div class="read-top">
+        <button class="read-button" onclick="toggleRead()">🔊 Läs upp</button>
+    </div>
+
+    <h1 class="center-title">TEKNIKLISTA</h1>
+
+    <!-- Allt som ska läsas ligger här -->
+    <div class="readable-content">
+
+        <!-- Teknik-symboler -->
+        <div class="tech-grid">
+
+            <a href="../tech/grupp1-datorer.html" class="tech-item">
+                <div class="tech-icon">💻</div>
+                <div class="tech-label">Datorer<br>(PC & Mac)</div>
+            </a>
+
+            <a href="../tech/grupp1-mobil.html" class="tech-item">
+                <div class="tech-icon">📱</div>
+                <div class="tech-label">iPad &<br>Mobiltelefoner</div>
+            </a>
+
+            <a href="../tech/grupp1-3d.html" class="tech-item">
+                <div class="tech-icon">🖨️</div>
+                <div class="tech-label">3D-skrivare</div>
+            </a>
+
+            <a href="../tech/grupp1-musik.html" class="tech-item">
+                <div class="tech-icon">🎵</div>
+                <div class="tech-label">Musik &<br>Inspelning</div>
+            </a>
+
+        </div>
+
+        <!-- Avdelare -->
+        <hr class="section-divider">
+
+        <!-- Hur-rubrik -->
+        <h2 class="center-subtitle">TEKNIK I RUMMET</h2>
+
+        <!-- Hur-text -->
+        <div class="tech-description">
+            <p>
+                Teknik är en naturlig del av Grupp 1:s vardag och används framför allt
+                som ett kreativt verktyg. Datorer, iPads, telefoner och 3D-skrivare
+                används till spel, skapande, 3D-modellering, musik och inspelning.
+            </p>
+
+            <p>
+                Tekniken fungerar även som ett sätt att kommunicera och uttrycka
+                intressen. Användningen anpassas efter individernas behov och intresse.
+            </p>
+        </div>
+
+    </div>
+
+    <script src="../js/read.js"></script>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <title>Diabasen – Grupp 2</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+    <!-- Tillbaka -->
+    <div class="back-link">
+        <a href="../index.html">← Tillbaka till kartan</a>
+    </div>
+
+    <!-- Läs upp -->
+    <div class="read-top">
+        <button class="read-button" onclick="toggleRead()">🔊 Läs upp</button>
+    </div>
+
+    <!-- Rubrik -->
+    <h1>DIABASEN: Grupp 2</h1>
+
+    <!-- Specialisering -->
+    <p class="specialization">
+        Tryggt och lösningsfokuserat stöd för personer med begränsad kommunikation,
+    genom tydlighet och förutsebarhet.
+
+    </p>
+
+    <!-- Bild -->
+    <div class="room-image">
+        <img src="../images/grupp2.png" alt="Grupp 2">
+    </div>
+
+    <!-- Allt som ska läsas -->
+    <div class="readable-content">
+
+        <section class="content-section">
+            <h2>Om gruppen</h2>
+
+            <p>
+                 Grupp 2 präglas av lyhördhet, trygghet och mycket social interaktion.
+            	 Tempot är ofta lugnt kroppsligt men verbalt levande, med mycket samtal
+           	 på olika nivåer och sätt.
+            </p>
+
+            <p>
+            	Gruppen anpassar sig dagligen efter individernas behov och dagsform.
+            	Fokus kan vara individuellt eller gemensamt beroende på situation.
+            	Trygghet, tydlighet och relationer är en central del av arbetet.
+            </p>
+        </section>
+
+    </div>
+
+    <div class="button-row">
+        <a href="grupp2-teknik.html" class="action-button">Teknik i rummet</a>
+        <a href="grupp2-mer.html" class="action-button">Mer om gruppen</a>
+        <a href="grupp2-kompetens.html" class="action-button">Special kompetens</a>
+    </div>
+
+    <!-- Endast det nya scriptet -->
+    <script src="../js/read.js"></script>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <title>Special kompetens – Grupp 2</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<div class="page-container">
+
+    <div class="back-link">
+        <a href="grupp2.html">← Tillbaka till Grupp 2</a>
+    </div>
+
+    <h1 class="page-title">SPECIAL KOMPETENS</h1>
+
+    <div class="content-card">
+
+        <h2>Gruppens specialisering</h2>
+
+        <p class="intro-text">
+            Grupp 2 har en särskilt stark kompetens i att skapa trygghet,
+            struktur och tydlighet för deltagare med begränsad eller
+            varierande kommunikation.
+        </p>
+
+        <h2>Vad gruppen kan hjälpa andra med</h2>
+
+
+        <ul>
+            <li>Individuell behovsanalys</li>
+            <li>Lösningsfokuserat arbetssätt</li>
+            <li>Struktur och tydliggörande pedagogik</li>
+            <li>Arbete med tidshjälpmedel och visuell planering</li>
+            <li>Stöd vid kommunikationssvårigheter</li>
+        </ul>
+
+        <h2>Styrkor i personalgruppen</h2>
+
+        <ul>
+            <li>Lång erfarenhet</li>
+            <li>Lyhördhet och relationskompetens</li>
+            <li>Lugn och stabil närvaro</li>
+            <li>Förmåga att anpassa arbetssätt dagligen</li>
+            <li>Starkt samarbete inom gruppen</li>
+        </ul>
+
+	  <p class="intro-text">
+
+        <h2>Tips på välfärdsteknik</h2>
+
+        <p class="intro-text">
+            Verktyg som stärker självständighet, visuellt stöd och
+            tidsstruktur är särskilt relevanta. Appar för läs- och
+            skrivstöd samt tydlig tidsvisualisering kan vara
+            naturliga utvecklingsområden.
+        </p>
+
+    </div>
+
+</div>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <title>Grupp 2 – Mer om gruppen</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+    <!-- Tillbaka -->
+    <div class="back-link">
+        <a href="grupp2.html">← Tillbaka till Grupp 2</a>
+    </div>
+
+    <!-- Läs upp -->
+    <div class="read-top">
+        <button class="read-button" onclick="toggleRead()">🔊 Läs upp</button>
+    </div>
+
+    <h1>Mer om gruppen</h1>
+
+    <!-- Allt som ska läsas ligger här -->
+    <div class="readable-content">
+
+        <section class="content-section left">
+            
+            <h2>Hur gruppen arbetar</h2>
+
+            <p>
+               	Arbetet i Grupp 2 präglas av struktur, tydlighet och relation.
+            	Personalen anpassar stödet dagligen utifrån individens behov
+            	och dagsform. Samtal är en central del av arbetssättet.
+
+            </p>
+
+            <p>
+                Gruppen arbetar både individuellt och tillsammans.
+            	Trygghet och förutsebarhet är viktiga faktorer för att skapa
+            	stabilitet i vardagen.
+            </p>
+
+         
+            <h2>Möjligheter framåt</h2>
+
+            <p>
+                Ett naturligt nästa steg är att stärka självständigheten
+            	genom fler verktyg som minskar behovet av direkt personalstöd.
+            	Digitala hjälpmedel kan bidra till ökad struktur och självständighet.
+            </p>
+
+            <h2>Styrkor i Grupp 2</h2>
+
+            <ul>
+                <li>Lång erfarenhet och stabil grund</li>
+            	<li>Lyhördhet och relationskompetens</li>
+            	<li>Tydliggörande pedagogik</li>
+            	<li>Lösningsfokus</li>
+            	<li>Förmåga att skapa trygghet i kommunikationssvårigheter</li>
+            	<li>Stark samarbetskultur i personalgruppen</li>
+            </ul>
+
+        </section>
+
+    </div>
+
+    <script src="../js/read.js"></script>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <title>Teknik i Grupp 2</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+    <!-- Tillbaka -->
+    <div class="back-link">
+        <a href="../groups/grupp2.html">← Tillbaka till Grupp 2</a>
+    </div>
+
+    <!-- Läs upp -->
+    <div class="read-top">
+        <button class="read-button" onclick="toggleRead()">🔊 Läs upp</button>
+    </div>
+
+    <h1 class="center-title">TEKNIKLISTA</h1>
+
+    <!-- Allt som ska läsas ligger här -->
+    <div class="readable-content">
+
+        <!-- Teknik-symboler -->
+        <div class="tech-grid">
+
+        <a href="../tech/grupp2-datorer.html" class="tech-item">
+            <div class="tech-icon">💻</div>
+            <div class="tech-label">Datorer</div>
+        </a>
+
+        <a href="../tech/grupp2-ipad.html" class="tech-item">
+            <div class="tech-icon">📱</div>
+            <div class="tech-label">iPad &<br>Telefon</div>
+        </a>
+
+        <a href="../tech/grupp2-tid.html" class="tech-item">
+            <div class="tech-icon">⏳</div>
+            <div class="tech-label">Tidshjälpmedel</div>
+        </a>
+
+        <a href="../tech/grupp2-touch.html" class="tech-item">
+            <div class="tech-icon">🖥️</div>
+            <div class="tech-label">Touchskärm</div>
+        </a>
+
+        <a href="../tech/grupp2-fliptavla.html" class="tech-item">
+            <div class="tech-icon">📋</div>
+            <div class="tech-label">Fliptavla</div>
+        </a>
+
+    </div>
+
+        <!-- Avdelare -->
+        <hr class="section-divider">
+
+        <!-- Hur-rubrik -->
+        <h2 class="center-subtitle">TEKNIK I RUMMET</h2>
+
+        <!-- Hur-text -->
+        <div class="tech-description">
+            <p>
+               	Teknik i Grupp 2 används främst som stöd för struktur,
+            	kommunikation och delaktighet. Verktygen bidrar till
+            	förutsebarhet, tydlighet och självständighet.
+            </p>
+
+            <p>
+                Användningen anpassas efter individens behov, särskilt
+            	vid kommunikationssvårigheter eller behov av tydlig
+            	tidsstruktur.
+            </p>
+        </div>
+
+    </div>
+
+    <script src="../js/read.js"></script>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <title>Diabasen – Grupp 3</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+    <!-- Tillbaka -->
+    <div class="back-link">
+        <a href="../index.html">← Tillbaka till kartan</a>
+    </div>
+
+    <!-- Läs upp -->
+    <div class="read-top">
+        <button class="read-button" onclick="toggleRead()">🔊 Läs upp</button>
+    </div>
+
+    <h1>DIABASEN: Grupp 3</h1>
+
+    <p class="specialization">
+        Tillgänglig och relationsbaserad teknik på grundläggande nivå, med fokus på motivation, inkludering och deltagande för personer med begränsad läs- och skrivförmåga.
+    </p>
+
+    <div class="room-image">
+        <img src="../images/grupp3.png" alt="Grupp 3">
+    </div>
+
+    <div class="readable-content">
+
+        <section class="content-section">
+            <h2>Om gruppen</h2>
+
+            <p>
+                Grupp 3 präglas av glädje, nyfikenhet och förväntan i vardagen.
+                Tempot varierar mellan lugnt fokus och mer intensiv aktivitet
+                beroende på dagsform och gruppens sammansättning.
+            </p>
+
+            <p>
+                Rummet rymmer både individuellt arbete och gemensamma aktiviteter.
+                När uppgiften är tydlig och igenkännbar ökar koncentrationen
+                och uthålligheten.
+            </p>
+
+            <p>
+                Gruppen upplevs trygg och fungerar bäst när personalen är samspelta
+                och flexibla i stunden.
+            </p>
+        </section>
+
+    </div>
+
+    <div class="button-row">
+        <a href="grupp3-teknik.html" class="action-button">Teknik i rummet</a>
+        <a href="grupp3-mer.html" class="action-button">Mer om gruppen</a>
+        <a href="grupp3-kompetens.html" class="action-button">Special kompetens</a>
+    </div>
+
+<script src="../js/read.js"></script>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <title>Grupp 3 – Special kompetens</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+    <!-- Tillbaka -->
+    <div class="back-link">
+        <a href="grupp3.html">← Tillbaka till Grupp 3</a>
+    </div>
+
+    <!-- Läs upp -->
+    <div class="read-top">
+        <button class="read-button" onclick="toggleRead()">🔊 Läs upp</button>
+    </div>
+
+    <h1>Special kompetens</h1>
+
+    <div class="readable-content">
+
+        <section class="content-section">
+
+            <p>
+                Grupp 3 har en stark kompetens inom flexibilitet,
+                anpassning och motivationsarbete. Personalen
+                kompletterar varandra och erbjuder bred stimulans
+                under dagen.
+            </p>
+
+            <p>
+                Erfarenhet inom psykiatri samt personlig förståelse
+                för NPF bidrar till empati, trygghet och realistisk
+                anpassning av krav.
+            </p>
+
+            <h2>Gruppen är särskilt skicklig på att:</h2>
+
+            <ul>
+                <li>Motivera deltagare att prova nya aktiviteter</li>
+                <li>Använda gruppens dynamik för att inkludera individer</li>
+                <li>Arbeta tryggt över gruppgränser</li>
+                <li>Skapa social inkludering genom aktivitet</li>
+                <li>Utveckla teknik som är tillgänglig för fler</li>
+            </ul>
+
+        </section>
+
+    </div>
+
+<script src="../js/read.js"></script>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <title>Grupp 3 – Mer om gruppen</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+    <!-- Tillbaka -->
+    <div class="back-link">
+        <a href="grupp3.html">← Tillbaka till Grupp 3</a>
+    </div>
+
+    <!-- Läs upp -->
+    <div class="read-top">
+        <button class="read-button" onclick="toggleRead()">🔊 Läs upp</button>
+    </div>
+
+    <h1>Mer om gruppen</h1>
+
+    <div class="readable-content">
+
+        <section class="content-section left">
+
+            <h2>Hur gruppen arbetar</h2>
+
+            <p>
+                Arbetet sker både självständigt och med stöd, beroende på individ
+                och aktivitet. Struktur och tydlighet är centrala delar i vardagen.
+                Schema, visuell vägledning och gemensam morgongenomgång skapar
+                förutsägbarhet.
+            </p>
+
+            <p>
+                Samtidigt kräver gruppens dynamik hög flexibilitet.
+                Personalen behöver ofta göra snabba justeringar under dagen
+                för att skapa flyt och undvika låsningar.
+            </p>
+
+            <p>Stödet ges genom:</p>
+
+            <ul>
+                <li>Tydlig struktur</li>
+                <li>Att visa och göra tillsammans</li>
+                <li>Samtal vid behov</li>
+            </ul>
+
+            <h2>Välfärdsteknik – möjligheter</h2>
+
+            <p>
+                Det finns goda möjligheter att vidareutveckla arbetet med
+                Fliptavlan som social mötesplats samt enklare appar och visuella spel.
+            </p>
+
+            <ul>
+                <li>Teknik som är intuitiv</li>
+                <li>Bild- och färgbaserade lösningar</li>
+                <li>Interaktivitet utan krav på läsning</li>
+            </ul>
+
+            <h2>Möjligheter framåt</h2>
+
+            <p>
+                Ett naturligt nästa steg är att utveckla en tydlig specialisering
+                inom tillgänglig teknik för deltagare som inte läser eller skriver.
+            </p>
+
+            <ul>
+                <li>Utforska appar med låg tröskel</li>
+                <li>Skapa enkla digitala aktiviteter</li>
+                <li>Bli en resurs inom anpassad teknik</li>
+            </ul>
+
+        </section>
+
+    </div>
+
+<script src="../js/read.js"></script>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <title>Teknik i Grupp 3</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<div class="page-container">
+
+    <!-- Tillbaka -->
+    <div class="back-link">
+        <a href="grupp3.html">← Tillbaka till Grupp 3</a>
+    </div>
+
+    <!-- Läs upp -->
+    <div class="read-top">
+        <button class="read-button" onclick="toggleRead()">🔊 Läs upp</button>
+    </div>
+
+    <h1 class="center-title">TEKNIKLISTA</h1>
+
+    <!-- Teknik-symboler -->
+    <div class="tech-grid">
+
+        <a href="../tech/grupp3-fliptavla.html" class="tech-item">
+            <div class="tech-icon">🖥️</div>
+            <div class="tech-label">Fliptavla</div>
+        </a>
+
+        <a href="../tech/grupp3-ipad.html" class="tech-item">
+            <div class="tech-icon">📱</div>
+            <div class="tech-label">iPad</div>
+        </a>
+
+    </div>
+
+    <hr class="section-divider">
+
+    <h2 class="center-subtitle">TEKNIK I RUMMET</h2>
+
+    <div class="readable-content">
+        <div class="tech-description">
+            <p>
+                Teknik i Grupp 3 används främst som ett socialt och inkluderande
+                verktyg. Fliptavlan fungerar som samlande mötesplats för
+                gemensamma aktiviteter, medan iPad kan utvecklas som ett
+                individuellt stöd.
+            </p>
+
+            <p>
+                Tekniken används strategiskt för att inkludera deltagare
+                som annars riskerar att isolera sig.
+            </p>
+        </div>
+    </div>
+
+</div>
+
+<script src="../js/read.js"></script>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <title>Diabasen – Grupp 4 & 5</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+
+<div class="back-link">
+    <a href="../index.html">← Tillbaka till kartan</a>
+</div>
+
+<div class="read-top">
+    <button class="read-button" onclick="toggleRead()">🔊 Läs upp</button>
+</div>
+
+<div class="readable-content">
+
+<h1>DIABASEN: Grupp 4 & 5</h1>
+
+<p class="specialization">
+Teknisk och kreativ produktion med fokus på digitalt skapande, AI och självständigt arbete.
+</p>
+
+<div class="room-image">
+    <img src="../images/grupp45.png" alt="Grupp 4 & 5">
+</div>
+
+<section class="content-section">
+
+<h2>Om gruppen</h2>
+
+<p>
+Grupp 4 & 5 präglas av en varierande och social atmosfär.
+Stämningen kan upplevas som både spänd och uppslupen beroende på dagsform och tid på dagen.
+Samtalet är en central del av vardagen.
+</p>
+
+<p>
+Tempot är övergripande lugnt och formas gemensamt av deltagare och personal.
+Förutsägbarhet i rutiner bidrar till stabilitet även när dynamiken förändras.
+</p>
+
+<p>
+Fredagsfika är en återkommande och betydelsefull aktivitet som stärker sammanhållningen.
+Gruppen fungerar ofta som bäst efter lunch, särskilt efter gemensamt samtal runt bordet.
+</p>
+
+</section>
+
+<div class="button-row">
+    <a href="grupp45-teknik.html" class="action-button">Teknik i rummet</a>
+    <a href="grupp45-mer.html" class="action-button">Mer om gruppen</a>
+    <a href="grupp45-kompetens.html" class="action-button">Special kompetens</a>
+</div>
+
+</div>
+
+<script src="../js/read.js"></script>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <title>Grupp 4 & 5 – Special kompetens</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+
+<div class="back-link">
+    <a href="grupp45.html">← Tillbaka till Grupp 4 & 5</a>
+</div>
+
+<div class="read-top">
+   <button class="read-button" onclick="toggleRead()">🔊 Läs upp</button>
+</div>
+
+<div class="readable-content">
+
+<h1>Special kompetens</h1>
+
+<section class="content-section">
+
+<p>
+Grupp 4 & 5 har hög teknisk kompetens och nyfikenhet.
+Det finns särskild styrka inom:
+</p>
+
+<ul>
+<li>Film och filmredigering</li>
+<li>Teknikstöd och handledning</li>
+<li>AI-experimenterande</li>
+<li>Kreativ digital produktion</li>
+</ul>
+
+<p>
+Bemötandet är flexibelt och relationellt,
+med erfarenhet inom LSS och en proaktiv inställning till utveckling.
+</p>
+
+<p>
+En tydlig resurs är teknikcoachfunktionen,
+som stöttar både deltagare och kollegor i tekniska frågor.
+</p>
+
+<h2>Styrkor i gruppen</h2>
+
+<ul>
+<li>Nyfikenhet</li>
+<li>Tekniskt intresse</li>
+<li>Hög kompetens</li>
+<li>Erfarenhet inom LSS</li>
+<li>Proaktiv utvecklingsvilja</li>
+<li>Social närvaro</li>
+<li>Stabila rutiner</li>
+</ul>
+
+</section>
+
+</div>
+
+<script src="../js/read.js"></script>
+
+</body>
+</html>
